@@ -36,4 +36,8 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 
 "Find Path" will find a path between the two selected nodes and display travel directions. 
 
-# Distributed under the MIT License. See LICENSE.txt for more information.
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
