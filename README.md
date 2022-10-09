@@ -2,17 +2,14 @@
 
 Created by: nidorbRotkiv.
 
----------------------------------------------------------------------
 # Description
 
 An interactive map of Europe where you can add nodes to then find paths between these.
 
----------------------------------------------------------------------
 # Getting Started
 
 Path-Finder is made in JavaFX and Java. To run the program you will need to add the folder "lib" in your "Libaries". The folder is located inside "java- fx-sdk-18". You will also have to add the following "--module-path "/where/your/folder/is/located/javafx-sdk-18/lib" --add-modules=javafx.controls,javafx.fxml" to your "VM options" inside your "Run/Debug Configurations". 
 
----------------------------------------------------------------------
 # Usage
 
 You will first get to see a blank menu. Press "File" and "New Map" to start.
@@ -39,7 +36,4 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 
 "Find Path" will find a path between the two selected nodes and display travel directions. 
 
- ---------------------------------------------------------------------
- Distributed under the MIT License. See LICENSE.txt for more information.
-
- ---------------------------------------------------------------------
+# Distributed under the MIT License. See LICENSE.txt for more information.
