@@ -1,6 +1,6 @@
 # Path-Finder
 
-Created by: nidorbRotkiv.
+Created by: nidorbRotkiv with friends.
 
 # Description
 
