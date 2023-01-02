@@ -33,6 +33,8 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 | **Change Connection** | Change the time it takes to travel between two nodes. |
 | **Find Path** | Find a path between the two selected nodes and display travel directions. |
 
+# License
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Distributed under the MIT License. See LICENSE.txt for more information.
