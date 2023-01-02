@@ -16,33 +16,22 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 
 ## File menu
 
-**"Open"** let you open your saved map with all connections and nodes.
-
-**"Save"** will save your current map inside the main folder and replace the previously saved one.
-
-**"Save Image"** will save an image of your map inside the main folder.
-
-**"Exit"** will close the app.
+| Button | Description |
+| ------ | ----------- |
+| **Open** | Open a saved map with all connections and nodes. |
+| **Save** | Save the current map inside the main folder and replace the previously saved one. |
+| **Save Image** | Save an image of the map inside the main folder. |
+| **Exit** | Close the app. |
 
 ## Program menu
 
 | Button | Description |
 | ------ | ----------- |
-| **New Place** | add a new node to the map and name it |
-| **New Connection** | connect two marked nodes |
-| **Show Connection** | show information about a connection |
-| **Change Connection** | change the time it takes to travel between two nodes |
-| **Find Path** | find a path between the two selected nodes and display travel directions |
- 
-**"New Place"** will let you add a new node to the map and name it.
-
-**"New Connection"** will connect two marked nodes. You can choose the transportation and how long it takes.
-
-**"Show Connection"** will show information about a connection.
- 
-**"Change Connection"** will change the time it takes to travel between two nodes.
-
-**"Find Path"** will find a path between the two selected nodes and display travel directions. 
+| **New Place** | Add a new node to the map and name it. |
+| **New Connection** | Connect two marked nodes. |
+| **Show Connection** | Show information about a connection. |
+| **Change Connection** | Change the time it takes to travel between two nodes. |
+| **Find Path** | Find a path between the two selected nodes and display travel directions. |
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
