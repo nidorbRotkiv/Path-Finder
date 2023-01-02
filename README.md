@@ -14,7 +14,7 @@ Path-Finder is made in JavaFX and Java. To run the program you will need to add 
 
 You will first get to see a blank menu. Press "File" and "New Map" to start.
 
-// File menu
+## File menu
 
 "Open" let you open your saved map with all connections and nodes.
 
@@ -24,7 +24,7 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 
 "Exit" will close the app.
 
-//
+## Program menu
  
 "New Place" will let you add a new node to the map and name it.
 
