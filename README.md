@@ -25,6 +25,14 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 **"Exit"** will close the app.
 
 ## Program menu
+
+| Button | Description |
+| ------ | ----------- |
+| **New Place** | add a new node to the map and name it |
+| **New Connection** | connect two marked nodes |
+| **Show Connection** | show information about a connection |
+| **Change Connection** | change the time it takes to travel between two nodes |
+| **Find Path** | find a path between the two selected nodes and display travel directions |
  
 **"New Place"** will let you add a new node to the map and name it.
 
