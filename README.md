@@ -8,7 +8,7 @@ An interactive map of Europe where you can add nodes to then find paths between 
 
 # Getting Started
 
-Path-Finder is made in JavaFX and Java. To run the program you will need to add the folder "lib" in your "Libaries". The folder is located inside "java- fx-sdk-18". You will also have to add the following "--module-path "/where/your/folder/is/located/javafx-sdk-18/lib" --add-modules=javafx.controls,javafx.fxml" to your "VM options" inside your "Run/Debug Configurations". 
+Path-Finder is made in JavaFX and Java. To run the program you will need to add the folder **"lib"** in your **"Libaries"**. The folder is located inside **"java- fx-sdk-18"**. You will also have to add the following **"--module-path "/where/your/folder/is/located/javafx-sdk-18/lib" --add-modules=javafx.controls,javafx.fxml"** to your **"VM options"** inside your **"Run/Debug Configurations"**. 
 
 # Usage
 
