@@ -16,25 +16,25 @@ You will first get to see a blank menu. Press "File" and "New Map" to start.
 
 ## File menu
 
-"Open" let you open your saved map with all connections and nodes.
+**"Open"** let you open your saved map with all connections and nodes.
 
-"Save" will save your current map inside the main folder and replace the previously saved one.
+**"Save"** will save your current map inside the main folder and replace the previously saved one.
 
-"Save Image" will save an image of your map inside the main folder.
+**"Save Image"** will save an image of your map inside the main folder.
 
-"Exit" will close the app.
+**"Exit"** will close the app.
 
 ## Program menu
  
-"New Place" will let you add a new node to the map and name it.
+**"New Place"** will let you add a new node to the map and name it.
 
-"New Connection" will connect two marked nodes. You can choose the transportation and how long it takes.
+**"New Connection"** will connect two marked nodes. You can choose the transportation and how long it takes.
 
-"Show Connection" will show information about a connection.
+**"Show Connection"** will show information about a connection.
  
-"Change Connection" will change the time it takes to travel between two nodes.
+**"Change Connection"** will change the time it takes to travel between two nodes.
 
-"Find Path" will find a path between the two selected nodes and display travel directions. 
+**"Find Path"** will find a path between the two selected nodes and display travel directions. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
